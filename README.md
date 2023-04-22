@@ -47,3 +47,9 @@
     git remote add origin [git-url]
     git push --set-upstream origin HEAD
     ```
+
+12. Set up an account on Render and linked my GitHub account.
+
+13. Created a new Web App on [Render](https://render.com/) and generated the service from my github repo.
+
+14. Tested the app. It works!
