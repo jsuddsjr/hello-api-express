@@ -1,0 +1,8 @@
+@host = jsuddsjr-api-hello.onrender.com
+
+### Base URL
+GET https://{{host}}
+
+### Get Users
+GET https://{{host}}/users
+
